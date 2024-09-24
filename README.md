@@ -58,7 +58,6 @@ Este proyecto consiste en el desarrollo de una aplicación para una empresa de d
 ## Estructura del Repositorio
 - `MainActivity.kt`: Código fuente para la pantalla de login y gestión de usuarios.
 - `MenuActivity.kt`: Código fuente para la pantalla de menú y cálculo de despacho.
-- `FirebaseUtils.kt`: Código fuente para la gestión de Firebase.
 - `README.md`: Documentación completa del proyecto.
 - `LICENSE`: Licencia del proyecto.
 
